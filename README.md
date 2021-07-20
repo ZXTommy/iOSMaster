@@ -4,3 +4,7 @@
 - 将让你重新认识iOS！我虽不是大神 ，但我想陪你一起走一遍成神之路！
 - 掘金：https://juejin.cn/column/6974290589936418823
 - 为了还在奋斗的iOS开发人员。
+
+chapter1 Objective-C 底层对象探究-上 ：https://juejin.cn/post/6974312535566581773
+chapter2 Objective-C 底层对象探究-中 ：https://juejin.cn/post/6980136546905096222
+chapter3 Objective-C 底层对象探究-下 ：https://juejin.cn/post/6986912468677165069
