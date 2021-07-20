@@ -14,8 +14,8 @@
             filePath = "runtime/NSObject.mm"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2549"
-            endingLineNumber = "2549"
+            startingLineNumber = "2551"
+            endingLineNumber = "2551"
             landmarkName = "+alloc"
             landmarkType = "7">
          </BreakpointContent>
