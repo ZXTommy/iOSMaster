@@ -16,8 +16,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "2551"
             endingLineNumber = "2551"
-            landmarkName = "NSObject"
-            landmarkType = "3">
+            landmarkName = "+alloc"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

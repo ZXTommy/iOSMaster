@@ -2061,6 +2061,8 @@ _objc_rootInit(id obj)
 {
     // In practice, it will be hard to rely on this function.
     // Many classes do not properly chain -init calls.
+    //在实践中，很难依赖这个功能,许多类不能正确地链接init调用。
+    //这里苹果没有任何的代码，主要是因为init基本上在实际开发中，都是由程序员进行了重写。
     return obj;
 }
 

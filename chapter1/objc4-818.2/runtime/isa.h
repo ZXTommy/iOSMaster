@@ -57,6 +57,8 @@
 # if __arm64__
 // ARM64 simulators have a larger address space, so use the ARM64e
 // scheme even when simulators build for ARM64-not-e.
+// 在ARM64模拟器会有更大的地址空间，所以使用ARM64e
+// 即便在ARM64-not-e下构建时也是如此
 #   if __has_feature(ptrauth_calls) || TARGET_OS_SIMULATOR
 #     define ISA_MASK        0x007ffffffffffff8ULL
 #     define ISA_MAGIC_MASK  0x0000000000000001ULL
