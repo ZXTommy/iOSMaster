@@ -10,3 +10,4 @@
 - chapter3 Objective-C 底层对象探究-下 ：https://juejin.cn/post/6986912468677165069
 - chapter4 Objective-C 底层类的探究-上 ：https://juejin.cn/post/7003617806302314527
 - chapter5 Objective-C 底层类的探究-下 ：https://juejin.cn/post/7025416561506664461
+- chapter6 Objective-C 底层类的Cache  ：https://juejin.cn/post/7075622984664219655
